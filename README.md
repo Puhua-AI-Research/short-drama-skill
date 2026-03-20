@@ -69,9 +69,9 @@ short-drama-skill/
 **Cursor 中使用：**
 
 ```bash
-cd your-project
-git clone https://github.com/<你的账号>/short-drama-skill.git
-# 在对话中引用 @skills/short-drama-skill/SKILL.md
+git clone https://github.com/Puhua-AI-Research/short-drama-skill.git 
+cp -rf short-drama-skill/skills ~/.cursor/skills/
+cp -rf short-drama-skill/skills ~/.claude/skills/
 ```
 
 或直接打开本仓库作为工作目录。
