@@ -331,7 +331,7 @@ ffmpeg -f concat -safe 0 -i ep001_scenes.txt -c copy assets/video/ep001_complete
 
 ## 命令定义
 
-**📖 视频制作完整示例：** 如需生成视频，请参考 [`VIDEO-WORKFLOW-EXAMPLE.md`](VIDEO-WORKFLOW-EXAMPLE.md) 查看从剧本到视频的完整工作流程和命令示例。
+**📖 视频制作完整示例：** 如需生成视频，请参考 [`VIDEO-WORKFLOW-EXAMPLE.md`](./references/VIDEO-WORKFLOW-EXAMPLE.md) 查看从剧本到视频的完整工作流程和命令示例。
 
 ---
 
