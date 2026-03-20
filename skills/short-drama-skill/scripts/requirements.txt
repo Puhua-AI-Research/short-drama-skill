@@ -1,0 +1,2 @@
+# Agent 图像生成 CLI：scripts/ph8_generate_image.py
+openai>=1.40.0
