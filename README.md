@@ -70,8 +70,9 @@ short-drama-skill/
 
 ```bash
 git clone https://github.com/Puhua-AI-Research/short-drama-skill.git 
-cp -rf short-drama-skill/skills ~/.cursor/skills/
-cp -rf short-drama-skill/skills ~/.claude/skills/
+cd short-drama-skill
+cp -rf skills ~/.cursor/skills/
+cp -rf skills ~/.claude/skills/
 ```
 
 或直接打开本仓库作为工作目录。
