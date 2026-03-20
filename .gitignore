@@ -1,0 +1,20 @@
+# 创作过程中生成的工作文件
+*.pyc
+.drama-state.json
+creative-plan.md
+characters.md
+episode-directory.md
+episodes/
+reviews/
+compliance-report.md
+export/
+
+# 密钥（Agent 生图脚本通过环境变量读取）
+.env
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
